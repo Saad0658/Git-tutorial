@@ -2,3 +2,4 @@
 #blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 print("hello this program is made for git tutorial")
+print("we can even use git int he terminal ")
