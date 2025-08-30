@@ -3,3 +3,4 @@
 
 print("hello this program is made for git tutorial")
 print("we can even use git int he terminal ")
+print("we can us git push also  ")
